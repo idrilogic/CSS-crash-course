@@ -1,0 +1,27 @@
+body {
+	margin: 0; 
+	padding: 0; 
+	font-family: "arial", sans-serif; 
+}
+
+nav {
+	background-color: steelblue;
+	padding: 21px;
+	text-align: center;
+}
+
+
+a {
+	padding: 8px 12px;
+	text-decoration: none;
+	color: #fff;
+}
+
+a:hover {
+	color: wheat;
+	border-bottom: 1px solid wheat;
+}
+
+section {
+	padding: 5% 20px
+ }

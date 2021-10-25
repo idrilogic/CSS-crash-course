@@ -1,0 +1,60 @@
+
+body {
+	margin: 0; 
+	padding: 0;
+}
+
+/* dot to call the class name of an element */ 
+.container {
+	padding: 12px;
+	background-color: teal;
+	color: #fff;
+	font-family: "roboto", sans-serif;
+	text-align: center;
+}
+
+.container p {
+	color: wheat;
+	font-size: 20px;
+	margin: 2%
+}
+
+
+.container a {
+	padding: 8px 12px 8px 12px;
+	text-decoration: none;
+	color: blue;
+	background-color: #fff;
+	box-shadow: 0px 4px 8px 0px rgba(0, 0, 0, 0.5);
+	border: 2px solid orange;
+	border-radius: 50px;
+}
+
+.container a:hover {
+	text-decoration: line-through;
+	color: red;
+	background-color: #ddd;
+	border: 0;
+	border-radius: 50px;
+}
+
+
+.button {
+	margin: 5%;
+	padding: 12px;
+	float: right;
+	cursor: pointer;
+	outline: none;
+}
+
+.lorem {
+	margin: 12px;
+	padding: 12px;
+	border: 1px solid red;
+	background-color: grey;
+	font-family: "arial", sans-serif;
+	font-size: 20px;
+	color: #fff;
+	line-height: 30px;
+	letter-spacing: 4px;
+}
